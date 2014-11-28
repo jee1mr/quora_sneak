@@ -1,8 +1,0 @@
-var divs = document.getElementsByTagName('div');
-var x = []
-for(var i=0;i<divs.length;i++){
-    if(divs[i].id.match(/.*modal_signup_wrapper/i)){
-	    x=divs[i].id.match(/.*modal_signup_wrapper/i);
-	}
-}
-document.getElementById(x[0]).hidden=true;
