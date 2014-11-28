@@ -1,0 +1,9 @@
+{
+  "name": "quora_sneak",
+  "title": "Quora Sneak",
+  "id": "jid1-sh7EcEjlHaN8RA",
+  "description": "An add-on to read all Quora answers without having to log in or sign up",
+  "author": "Jeevan M R",
+  "license": "MPL 2.0",
+  "version": "0.2"
+}
